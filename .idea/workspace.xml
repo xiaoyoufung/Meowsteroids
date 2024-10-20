@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02b8d418-59b8-42e0-a974-d07ff309266b" name="Changes" comment="" />
+    <list default="true" id="02b8d418-59b8-42e0-a974-d07ff309266b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/model/DamageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/model/Keys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/model/character/BasedCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/model/character/MeowSteroidCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/model/character/MouseCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/view/GameStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/view/GameStage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/view/MainPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se233/meowsteroids/view/MainPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/se233/meowsteroids/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/se233/meowsteroids/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -50,6 +63,11 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.customizations"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "CSS"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

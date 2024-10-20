@@ -1,4 +1,7 @@
 package se233.meowsteroids.view;
 
-public class MainPane {
+import javafx.scene.layout.VBox;
+
+public class MainPane extends VBox {
+
 }

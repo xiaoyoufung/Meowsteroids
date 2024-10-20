@@ -9,7 +9,7 @@ public class Launcher extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        Scene scene = new Scene(new Pane());
+        Scene scene = new Scene(new Pane(), 1000, 600);
 
         // Apply CSS
         scene.getStylesheets().add(getClass().getResource("styles.css").toExternalForm());
