@@ -13,7 +13,7 @@ public class Live extends Pane {
         liveLbl.setStyle("-fx-font-size: 48; -fx-font-weight: 300");
 
         live = new Label("0");
-        live.setStyle("-fx-font-size: 55; -fx-color: red");
+        live.setStyle("-fx-font-size: 55; -fx-text-fill: red");
 
         liveArea.getChildren().addAll(liveLbl, live);
         getChildren().add(liveArea);
