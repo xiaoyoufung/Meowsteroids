@@ -55,7 +55,13 @@ public class MainPane extends VBox {
         catBossImg.setFitWidth(260);
         catBossImg.setFitHeight(260);
 
-        middleArea.getChildren().addAll(catBossImg);
+        HBox catBossArea = new HBox(catBossImg);
+        catBossArea.setPadding(new Insets(0,0,0,180));
+
+        Label titleLbl = new Label("MEOWSTEROIDS");
+        titleLbl.setStyle("-fx-font-size: 185");
+
+        middleArea.getChildren().addAll(catBossArea, titleLbl);
         return middleArea;
     }
 }
