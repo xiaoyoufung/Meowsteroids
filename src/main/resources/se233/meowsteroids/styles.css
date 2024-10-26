@@ -3,3 +3,10 @@
 * {
     -fx-font-family: "Dongle", sans-serif;
 }
+
+
+.button {
+    -fx-padding: 10;
+    -fx-border-color: black;
+    -fx-border-width: 2;
+}
